@@ -1,0 +1,2 @@
+rootProject.name = "RewardClicker"
+include ':app'

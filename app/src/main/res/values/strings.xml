@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Clicker Reward</string>
+    <string name="dummy_button">Satisfy Button</string>
+    <string name="Leaders_button">Leaders</string>
+    <string name="dummy_content">0</string>
+    <string name="leaderboard_id">CgkIrP2Y8Z4VEAIQAQ</string>
+    <string name="not_connected">Не удалось подключиться к гугл сервисам</string>
+    <string name="sign_in">Sign In</string>
+    <string name="signin_other_error">Ошибки при авториации</string>
+    <string name="game_services_project_id">729844956844</string>
+    <string name="success_sign">Успешная авторизация</string>
+    <string name="error_signin">Неуспешно</string>
+</resources>
